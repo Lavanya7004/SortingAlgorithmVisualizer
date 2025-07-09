@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer 🧠📊
+# Sorting Algorithm Visualizer 
 
 A beginner-friendly Python project that visually explains how sorting algorithms work using animations.
 
